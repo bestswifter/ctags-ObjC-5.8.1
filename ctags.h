@@ -17,7 +17,7 @@
 #ifndef PROGRAM_VERSION
 # define PROGRAM_VERSION "5.8.2"
 #endif
-#define PROGRAM_NAME      "Exuberant Ctags (w/ ObjC support) Preen And Prune Fork"
+#define PROGRAM_NAME      "Exuberant Ctags Development, (w/ ObjC support) Preen And Prune Fork"
 #define PROGRAM_URL       "https://github.com/mcormier/ctags-ObjC-5.8.1"
 #define PROGRAM_COPYRIGHT "Copyright (C) 1996-2013"
 #define AUTHOR_NAME       "Matthieu Cormier"
